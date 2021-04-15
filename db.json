@@ -2,69 +2,29 @@
     "emails": [
         {
             "id": 1,
+            "date": "2021-04-21",
             "from": "pedro.palma@gmail.com",
-            "sender_name": "pedro palma",
             "subject": "some subject text line goes here",
             "body": "here goes the main content of the email. So a lot of text",
-            "folder": "personal"
+            "folder": "personal",
         },
-        {
+          {
             "id": 2,
+            "date": "2021-04-21",
             "from": "pedro.palma@gmail.com",
-            "sender_name": "pedro palma",
             "subject": "some subject text line goes here",
             "body": "here goes the main content of the email. So a lot of text",
-            "folder": "personal"
-        }
-        {
-            "id": 3,
+            "folder": "personal",
+        },
+          {
+            "id": 1,
+            "date": "2021-04-21",
             "from": "pedro.palma@gmail.com",
-            "sender_name": "pedro palma",
             "subject": "some subject text line goes here",
             "body": "here goes the main content of the email. So a lot of text",
-            "folder": "personal"
+            "folder": "personal",
         }
-        {
-            "id": 4,
-            "from": "pedro.palma@gmail.com",
-            "sender_name": "pedro palma",
-            "subject": "some subject text line goes here",
-            "body": "here goes the main content of the email. So a lot of text",
-            "folder": "personal"
-        }
-        {
-            "id": 5,
-            "from": "pedro.palma@gmail.com",
-            "sender_name": "pedro palma",
-            "subject": "some subject text line goes here",
-            "body": "here goes the main content of the email. So a lot of text",
-            "folder": "personal"
-        }
-        {
-            "id": 6,
-            "from": "pedro.palma@gmail.com",
-            "sender_name": "pedro palma",
-            "subject": "some subject text line goes here",
-            "body": "here goes the main content of the email. So a lot of text",
-            "folder": "personal"
-        }
-        {
-            "id": 7,
-            "from": "pedro.palma@gmail.com",
-            "sender_name": "pedro palma",
-            "subject": "some subject text line goes here",
-            "body": "here goes the main content of the email. So a lot of text",
-            "folder": "personal"
-        }
-        {
-            "id": 8,
-            "from": "pedro.palma@gmail.com",
-            "sender_name": "pedro palma",
-            "subject": "some subject text line goes here",
-            "body": "here goes the main content of the email. So a lot of text",
-            "folder": "personal"
-        }
-
+   
     ]
 
 }
